@@ -1,4 +1,2 @@
-flask
-git add requirements.txt
-git commit -m "Aggiungi dipendenze a requirements.txt"
-git push origin main
+flask==2.0.1
+requests==2.25.1
