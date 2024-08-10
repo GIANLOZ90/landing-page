@@ -1,2 +1,3 @@
-git commit -m "Aggiunto file app.py"
-git push origin main
+add app.py
+commit -m "Corretto il contenuto di app.py"
+push
