@@ -1,1 +1,4 @@
-
+flask
+git add requirements.txt
+git commit -m "Aggiungi dipendenze a requirements.txt"
+git push origin main
